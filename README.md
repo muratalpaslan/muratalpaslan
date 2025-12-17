@@ -1,21 +1,22 @@
 # I'm Murat Alpaslan
 
-**Frontend-focused Software Engineer** working on production systems that connect web interfaces with industrial and embedded environments.
+Frontend-focused Software Engineer working on production systems that connect
+web interfaces with industrial and embedded environments.
 
 ---
 
 ## What I do
-- Build **MES and monitoring interfaces** for robots and devices
-- Develop **Linux-based kiosk and desktop UIs**
+- Build MES and monitoring interfaces for robots and devices
+- Develop Linux-based kiosk and desktop UIs
 - Turn complex workflows and raw data into usable interfaces
 - Work on systems that must run reliably, not just look good
 
 ---
 
 ## Selected work
-- **MES Robot Management System** – Robot monitoring, control panels, logging
-- **Linux-Based Treatment Device Kiosk** – Embedded UI for medical devices
-- **AI-Supported Career Platform** – Project-based learning and guidance platform
+- **MES Robot Management System** – robot monitoring, control panels, logging
+- **Linux-Based Treatment Device Kiosk** – embedded UI for medical devices
+- **AI-Supported Career Platform** – project-based learning and guidance platform
 
 ---
 
@@ -26,5 +27,5 @@
 
 ---
 
-🔗 [noweltech.com](https://noweltech.com) <br>
-🔗 [linkedin.com/in/muratalpaslan](https://linkedin.com/in/muratalpaslan)
+🔗 https://noweltech.com  
+🔗 https://linkedin.com/in/muratalpaslan
