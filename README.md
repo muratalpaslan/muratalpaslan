@@ -11,7 +11,7 @@ Frontend-focused Software Engineer working on production systems that connect we
 ### Selected work
 - **MES Robot Management System** – Robot monitoring, control panels, logging
 - **Linux-Based Treatment Device Kiosk** – Embedded UI for medical devices
-- **AI-Supported Career Platform** – Project-based learning and guidance platform
+- **Production Web Platforms** – E-commerce and corporate web systems focused on performance, SEO, and maintainability
 
 ### How I work
 - Prefer clarity over clever abstractions
